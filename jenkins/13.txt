@@ -6,3 +6,6 @@ jenkinsユーザだから当然か
 sudo怒られた
 ので、/home/jenkinsディレクトリに変更
 っていうか、ansibleで使うなら、/lib/・・・にしても良いのかな？	
+
+cpのディレクトリ指定で怒られた
+ちゃんと/home/jenkins/git_testと最後まで書かないとダメ？？
