@@ -1,1 +1,4 @@
 Jenkinsが~にgitフォルダをコピーすることのテストです
+
+permission deniedで怒られました。
+jenkinsユーザだから当然か
