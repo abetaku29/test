@@ -9,3 +9,7 @@ sudo怒られた
 
 cpのディレクトリ指定で怒られた
 ちゃんと/home/jenkins/git_testと最後まで書かないとダメ？？
+
+
+勘違いしていた
+jenkinsは/homeにディレクトリは無く、/var/lib/jenkinsがホームディレクトリだった！
